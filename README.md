@@ -1,8 +1,5 @@
+
 # Blogs
 
-## Video
-
-## Radio
-
-- [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/)
+- [Blogs (Video/Radio/...)](Blogs/Index.md)
 
