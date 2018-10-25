@@ -1,5 +1,7 @@
 [Home](../README.md)
 
+----
+
 # Video Blogs
 
 - [Fun Fun Function (YouTube)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) by [Mattias Petter Johansson](https://twitter.com/mpjme)
